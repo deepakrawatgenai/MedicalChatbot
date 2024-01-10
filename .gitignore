@@ -35,7 +35,7 @@ MANIFEST
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
-
+data
 # Unit test / coverage reports
 htmlcov/
 .tox/
@@ -52,6 +52,7 @@ coverage.xml
 cover/
 
 # Translations
+llama-2-7b-chat.ggmlv3.q4_0.bin
 *.mo
 *.pot
 
